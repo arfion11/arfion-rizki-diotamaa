@@ -1,0 +1,77 @@
+[
+    {
+        "Brand": "Alienware",
+        "namaLaptop": "alianware",
+        "imageId": "alianware"
+    },
+    {
+        "Brand": "Hp",
+        "namaLaptop": "omen",
+        "imageId": "hp"
+    },
+    {
+        "Brand": "Asus",
+        "namaLaptop": "predator",
+        "imageId": "asus"
+    },
+    {
+        "Brand": "Acer",
+        "namaLaptop": "v15",
+        "imageId": "acer"
+    },
+    {
+        "Brand": "Acer2",
+        "namaLaptop": "nitro",
+        "imageId": "acer2"
+    },
+    {
+        "Brand": "Lenovo",
+        "namaLaptop": "ideapad",
+        "imageId": "lenovo"
+    },
+    {
+        "Brand": "Lenovo2",
+        "namaLaptop": "yoga",
+        "imageId": "lenovo2"
+    },
+    {
+        "Brand": "Lenovo3",
+        "namaLaptop": "legion",
+        "imageId": "lenovo3"
+    },
+    {
+        "Brand": "Lenovo4",
+        "namaLaptop": "loq",
+        "imageId": "lenovo4"
+    },
+    {
+        "Brand": "Asus6",
+        "namaLaptop": "vivobook",
+        "imageId": "asus6"
+    },
+    {
+        "Brand": "Asus2",
+        "namaLaptop": "tuf17",
+        "imageId": "asus2"
+    },
+    {
+        "Brand": "Asus3",
+        "namaLaptop": "zephyrusduo",
+        "imageId": "asus3"
+    },
+    {
+        "Brand": "Asus4",
+        "namaLaptop": "strixscar16",
+        "imageId": "asus4"
+    },
+    {
+        "Brand": "Asus5",
+        "namaLaptop": "zephyrus",
+        "imageId": "asus5"
+    },
+    {
+        "Brand": "Msi",
+        "namaLaptop": "msi",
+        "imageId": "msi"
+    }
+]
